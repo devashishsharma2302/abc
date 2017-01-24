@@ -1,9 +1,6 @@
 {
   "name": "abc",
   "description": "",
-  "repository": "",
-
-  "logo": "",
   "keywords": ["python", "django"],
   "env": {
     "DJANGO_SETTINGS_MODULE": "abc.settings.local"
