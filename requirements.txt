@@ -12,6 +12,9 @@ dj-database-url==0.4.1
 dj-email-url==0.0.10
 django-filter==1.0.0
 
+
+
+
 django-rest-swagger==2.1.0
 Django==1.10.5
 
