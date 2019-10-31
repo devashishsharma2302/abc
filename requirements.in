@@ -3,7 +3,7 @@ Django==1.10.5
 
 django-filter==1.0.0
 django-rest-swagger==2.1.0
-djangorestframework==3.5.3
+djangorestframework==3.9.1
 
 gunicorn==19.6.0
 Logentries==0.17
